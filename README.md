@@ -15,3 +15,4 @@ console.log(uniStr(5)); // here 5 number of string will be genrate
 
 ```
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/HarishMahajan)
